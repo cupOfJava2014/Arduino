@@ -58,7 +58,7 @@ void loop() {
   motor_output(MOTOR4_A,LOW,255);
   motor_output(MOTOR4_B,HIGH,-1);
 
-  delay(1000;)
+  delay(1000);
   
 }
 
