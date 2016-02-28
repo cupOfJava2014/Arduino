@@ -51,7 +51,7 @@
 #define nrf_MISO 47
 #define nrf_IRQ 48
 
-int msg[1];
+int msg[2];
 RF24 radio(9,10);
 const uint64_t pipe = 0xE8E8F0F0E1LL;
 
